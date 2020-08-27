@@ -3,6 +3,7 @@
 ## Structure of this repository
 Under src directory
 - We have data_parser.py which has one method
+
 Under src/tests direcotry
 - We have test cases to test the data_parser
 
