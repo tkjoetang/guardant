@@ -16,6 +16,8 @@ Under test/load, we have one testing file
   test.
   
 # How to start:
+
+### Set up 
 Clone this repository, run the following command on your Terminal
 or using any Github desktop tool. (We assume git command already installed on your
 system)
@@ -28,7 +30,7 @@ Once it is clone, run the following command by copying and pasting to your termi
 cd guardant && pip3 install -r requirement.txt  && export PYTHONPATH="$PWD/src"
 ```
 
-Now you should be ready to test on your Terminal
+### Now you should be ready to test on your Terminal
 
 Example to run just the smoke test suites:
 ```
