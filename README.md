@@ -13,8 +13,7 @@ Under tests/smoke, we have two testing files
 - Error path test cases
 
 Under test/load, we have one testing file
-- Generate a data, staring with one million choose characters, to 
-  test.
+- Load testing, generate string with one million choose characters, to test.
   
 # How to start:
 
