@@ -1,19 +1,16 @@
 # guardant (Demo only)
 
 ## Structure of this repository
-Under src directory
-- We have data_parser.py which has one method
-
-Under src/tests direcotry
-- We have test cases to test the data_parser
+- Under src directory, it has data_parser.py file which has one method
+- Under src/tests directory, it has all testcase files, which test the data_parser
 
 ## Structure of test cases
-Under tests/smoke, we have two testing files
+Under tests/smoke directory, it has two testing files.
 - Happy path test cases
 - Error path test cases
 
-Under test/load, we have one testing file
-- Load testing, generate string with one million choose characters, to test.
+Under test/load directory, it has one testing file,
+- Load test case, it generates testing data which string with one million choose characters.
   
 # How to start:
 
